@@ -1,8 +1,12 @@
-import React from 'react'
+import React from 'react';
+
+import Setup from './concepts/11-react-router'
+ 
 function App() {
   return (
     <div className='container'>
-      <h2>Advanced Tutorial</h2>
+     <Setup/>
+  
     </div>
   )
 }
